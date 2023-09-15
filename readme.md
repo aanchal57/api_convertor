@@ -10,9 +10,9 @@ using command `npm install package-name`
 3. Creating a .env file for accessing csv file and database from the local. Please specify each variable
 
 4. Run the following commands in order in the directory:
-            1. node Postgres_table.js
-            2. node csv_postgres.js
-            3. node age_distribution.js
+            1. `node Postgres_table.js`
+            2. `node csv_postgres.js`
+            3. `node age_distribution.js`
 
 Note: Only after you run the application on `localhost:3002/age-distribution`, you will be able to see the age distribution table on console and the website too.
 
